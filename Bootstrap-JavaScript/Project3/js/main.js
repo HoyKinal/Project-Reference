@@ -1,4 +1,4 @@
-// Header Scroll
+// // Header Scroll
 let nav = document.querySelector('.navbar');
 window.onscroll = function(){
     if(document.documentElement.scrollTop > 20){
@@ -7,11 +7,11 @@ window.onscroll = function(){
         nav.classList.remove('.header_scrolled')
     }
 }
-// Nav hide
+// // Nav hide
 
-//Owl Carousel
+// //Owl Carousel
 
-$(document).ready(function(){
+jQuery(document).ready(function($) {
     $(".client-slider-section").owlCarousel({
         items: 4,
         loop: true,

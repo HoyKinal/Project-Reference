@@ -1,0 +1,40 @@
+[
+    {
+        "id": "65c0c2b3c6e00",
+        "name": "sok san",
+        "gender": "M",
+        "year": 4,
+        "address": {
+            "phone": "0977103333",
+            "email": "hoykinal2001@gmail.com"
+        },
+        "score": {
+            "sub1": "12",
+            "sub2": "12",
+            "sub3": "12",
+            "sub4": "12",
+            "sub5": "12",
+            "total": 60,
+            "grade": "F"
+        }
+    },
+    {
+        "id": "65c0c5623e42d",
+        "name": "sok san",
+        "gender": "M",
+        "year": 4,
+        "address": {
+            "phone": "0977103333",
+            "email": "hoykinal2001@gmail.com"
+        },
+        "score": {
+            "sub1": "12",
+            "sub2": "34",
+            "sub3": "65",
+            "sub4": "78",
+            "sub5": "34",
+            "total": 223,
+            "grade": "F"
+        }
+    }
+]
