@@ -1,0 +1,87 @@
+﻿@model IEnumerable<StudentPortal.Models.Entities.Student>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List</h1>
+
+<p>
+    @Html.ActionLink("Create New", "Add", null, new { @class = "btn btn-primary" }, new { @class = "btn btn-secondary" })
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Phone
+            </th>
+            <th>
+               Subscribed
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subscribed)
+            </td>
+            <td>
+            <div style="display: flex; gap: 10px;">
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
+
+                @using (Html.BeginForm("DeleteConfirmed", "Students", new { id = item.Id }, FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    <span class="btn btn-danger" style="cursor: pointer;" onclick="submitForm()">
+                        Delete
+                    </span>
+                }
+            </div>
+
+            <script>
+                function submitForm() {
+                    document.forms[0].submit();
+                }
+            </script>
+                @* @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
+                *@
+
+
+                @* @using (Html.BeginForm("DeleteConfirmed", "Students", new { id = item.Id }, FormMethod.Post))
+                {
+                     @Html.AntiForgeryToken()
+                     <span>
+                          <button type="submit" class="btn btn-danger">Delete</button>
+                            
+                     </span>
+                } *@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
