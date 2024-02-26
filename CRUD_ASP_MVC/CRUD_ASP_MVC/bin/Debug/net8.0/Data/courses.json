@@ -1,0 +1,11 @@
+﻿[
+  {
+    "CourseId": 1,
+    "CourseName": "Mathematics"
+  },
+  {
+    "CourseId": 2,
+    "CourseName": "History"
+  }
+  // Add more courses as needed
+]

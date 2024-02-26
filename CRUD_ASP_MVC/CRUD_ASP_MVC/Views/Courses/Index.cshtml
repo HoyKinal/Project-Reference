@@ -1,0 +1,68 @@
+﻿@model List<ASP_MVC_CRUD.Models.Course>
+
+@{
+    ViewData["Title"] = "View Courses";
+    Layout = "_Layout";
+}
+
+<h2>Courses</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.CourseId</td>
+                <td>@course.CourseName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@course.CourseId" class="btn btn-warning">Edit</a>
+                    <button type="button" class="btn btn-danger deleteButton" data-toggle="modal" data-target="#confirmationModal" data-id="@course.CourseId">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Delete Confirmation Modal -->
+<div class="modal fade" id="confirmationModal" tabindex="-1" role="dialog" aria-labelledby="confirmationModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="confirmationModalLabel">Delete Confirmation</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Are you sure you want to delete this course?</p>
+            </div>
+            <div class="modal-footer">
+                <form id="deleteForm" asp-controller="Courses" asp-action="DeleteConfirmed" method="post">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" name="id" id="courseId" />
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </form>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('.deleteButton').click(function () {
+                var courseId = $(this).data('id');
+                $('#courseId').val(courseId);
+                $('#confirmationModal').modal('show');
+            });
+        });
+    </script>
+}

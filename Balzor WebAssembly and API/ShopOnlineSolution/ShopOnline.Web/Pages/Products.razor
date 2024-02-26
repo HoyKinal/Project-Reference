@@ -1,0 +1,125 @@
+﻿@page "/"
+@* @using OnlineShop.Models.Dtos *@
+
+@* 
+Bootstrap
+=========
+
+xs (Extra Small): Screens smaller than 576px wide.
+sm (Small): Screens equal to or larger than 576px wide.
+md (Medium): Screens equal to or larger than 768px wide.
+lg (Large): Screens equal to or larger than 992px wide.
+xl (Extra Large): Screens equal to or larger than 1200px wide. 
+
+
+Example :
+
+col-12: This class is applied to make each column take the full width on extra-small screens.
+col-sm-6: On small screens and above, each column takes half of the available width.
+col-md-4: On medium screens and above, each column takes one-third of the available width.
+col-lg-3: On large screens and above, each column takes one-fourth of the available width.
+col-xl-2: On extra-large screens, each column takes one-sixth of the available width.
+
+
+mt (margin top)
+mb (margin bottom)
+ml (margin left)
+mr (margin right)
+
+
+Example :
+
+mt-0: No top margin
+mt-1: Small top margin
+mt-2: Medium top margin
+mt-3: Large top margin
+mt-4: Extra-large top margin
+mt-5: Custom top margin (you can define your custom size in CSS)
+
+
+pt (padding top)
+pb (padding bottom)
+pl (padding left)
+pr (padding right)
+
+exmaple:
+
+pt-3: Adds a padding of a medium size to the top of the element.
+pb-4: Adds a padding of a large size to the bottom of the element.
+pl-2: Adds a padding of a small size to the left of the element.
+pr-5: Adds a padding of an extra-large size to the right of the element.
+
+*@
+
+@inherits ProductsBase
+
+
+
+
+@if(Products == null)
+{
+    <h3>Loading Products...</h3>
+}
+else
+{
+    <h3 class="mb-5">Products</h3>
+    var productCount = Products.Count();
+
+     @if (productCount > 0)
+    {
+        @* var groupedProductsByCategory = from product in Products
+                                      group product by product.CategoryId
+                                      into prodByCatGroup
+                                      orderby prodByCatGroup.Key
+                                      select prodByCatGroup; *@
+
+        var groupedProductsByCategory = GetGroupedProductsByCategory();
+
+            @foreach (var prodGroup in groupedProductsByCategory)
+            {  
+                @* <h4>@prodGroup.FirstOrDefault(pg => pg.CategoryId == prodGroup.Key)?.CategoryName</h4> *@
+                <h4>@GetCategoryName(prodGroup)</h4>
+               <div class="row mt-3">
+                   <DisplayProducts Products="@prodGroup.Take(4)"></DisplayProducts>
+               </div>
+               <hr class="mb-3"/>
+            }
+     } 
+    
+    @* @if (productCount > 0)
+    {
+        const int itemsPerRow = 4;
+
+        var productRowList = new List<ProductDto>();
+
+        @for (int i = 0; i<productCount; i++)
+        {
+            productRowList = Products.Skip(i * itemsPerRow).Take(itemsPerRow).ToList();
+
+            <div class="row mt-3">
+                
+                @foreach (var item in productRowList)
+                {
+                    <div class="col-md-3 mb-2">
+                        <a href="#">
+                            <div class="card">
+                                <img class="img-thumbnail" src="@item.ImageURL"/>
+                                <div class="card-body">
+                                    <div class="card-title mb-3">
+                                        <h5>
+                                            @item.Name
+                                        </h5>
+                                        <p class="card-text">
+                                            <b>@item.Price.ToString("C")</b>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                } 
+
+            </div>
+        }
+    } *@
+}
