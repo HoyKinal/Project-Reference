@@ -1,0 +1,11 @@
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\bin\Debug\net8.0\OnlineShop.Models.deps.json
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\bin\Debug\net8.0\OnlineShop.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\bin\Debug\net8.0\OnlineShop.Models.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\OnlineShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\OnlineShop.Models.AssemblyInfoInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\OnlineShop.Models.AssemblyInfo.cs
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\OnlineShop.Models.csproj.CoreCompileInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\OnlineShop.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\refint\OnlineShop.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\OnlineShop.Models.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Balzor WebAssembly and API\ShopOnlineSolution\OnlineShop.Models\obj\Debug\net8.0\ref\OnlineShop.Models.dll

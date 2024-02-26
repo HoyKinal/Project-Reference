@@ -1,0 +1,30 @@
+﻿@model ASP_MVC_CRUD.Models.Course
+
+@{
+    ViewData["Title"] = "Create Course";
+}
+
+<style>
+    /* Add custom styles here */
+    .form-container {
+        margin-top: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+</style>
+
+<h2>Create Course</h2>
+
+<div class="form-container">
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label asp-for="CourseName"></label>
+            <input asp-for="CourseName" class="form-control" />
+            <span asp-validation-for="CourseName" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Create</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

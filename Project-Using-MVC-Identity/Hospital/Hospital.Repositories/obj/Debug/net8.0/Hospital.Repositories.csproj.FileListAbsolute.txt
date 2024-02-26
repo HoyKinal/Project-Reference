@@ -1,0 +1,17 @@
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.deps.json
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.runtimeconfig.json
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.AssemblyReference.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfoInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfo.cs
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\refint\Hospital.Repositories.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.genruntimeconfig.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\ref\Hospital.Repositories.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CopyComplete

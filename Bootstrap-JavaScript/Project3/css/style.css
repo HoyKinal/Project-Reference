@@ -1,0 +1,218 @@
+/* 
+Tables Content
+------------------------
+1.General
+2.Navbar
+3.Banner
+4.Client
+5.About
+6.Features
+7.Pricing
+8.Testimonials
+9.Brands
+10.FAQs
+11.Footer
+------------------------
+*/
+
+/* 1.General
+=======================================================================================
+*/
+
+/* google-font */
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Quicksand:wght@500&display=swap');
+
+*{
+    box-sizing: border-box; /* With border-box */
+    margin: 0;
+    padding: 0;
+}
+:root{
+    /* Background Color */
+    --bg-black:#090b3c;
+    --bg-white:#fff;
+    --bg-light-white:#fcfcfc;
+    --bg-light-2:#f2f7fa;   
+    --bg-dark-green:#029d80;   
+    --bg-features-1:#fff6d6;   
+    --bg-features-2:#ebdcf9;   
+    --bg-features-3:#ddf5fc;   
+    --bg-features-4:#dcf6e8;   
+    --bg-features-5:#f8e4e1;   
+    --bg-features-6:#fbffd4;
+    
+    /*Text Color*/
+    --text-black:#000;
+    --text-white:#fff;
+    --text-dark-gray:#4c535d;
+    --text-light-2:#798089;
+    --text-light-3:#5e5e72;
+    --text-light-4:#A0A0A0;
+    --text-dark-green:#12c4a0;
+    --text-orange:#ff5d2a;
+    --text-yellow:#ffc100;
+
+    /* Fonts */
+    --primary-font:Quicksand;
+    --secondary-font:'Poppins','sans-serif';
+    --normal-font-weight:400;
+    --bold-font-weight:700;
+}
+/* Body */
+body{
+    font-family: var(--primary-font);
+    font-weight: var(--normal-font-weight);
+    background-color: var(--bg-white);
+}
+
+/*Custom CSS  */
+.learn-more-btn{
+    background-color: var(--bg-black);
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text-white) !important;
+    padding: 12px 29px !important;
+    border-radius: 10px;
+    border: 2px solid var(--bg-black);
+    box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+    display: inline-block;
+    text-decoration: none;
+    transition: 0.7s;
+}
+
+.btn-extra-header{
+    color:var(--text-dark-gray) !important;
+    background-color: transparent;
+    border: 2px solid var(--text-dark-gray);
+}
+
+/* 2.Navbar */
+.header_wrapper .navbar{
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -ms-transition: all .2s linear;
+    transition: all .2s linear;
+}
+
+.header_wrapper .navbar-brand img{
+    max-width: 210px;
+    height: auto;
+} 
+.header_wrapper .menu-navbar-nav{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+.header_wrapper .nav-item{
+    margin: 0 10px; /*top and bottom, left and right*/
+}
+.header_wrapper .nav-item .nav-link{
+    font-weight: var(--bold-font-weight);
+    font-size: 18px;
+    color: var(--text-dark-gray);
+    line-height: 1;
+}
+.header_wrapper .nav-item .nav-link:hover {
+    background-color: var(--bg-dark-green); /* Add your desired background color */
+    text-decoration: underline; /* Underline on hover */
+    border-radius: 10px;
+    color: var(--text-white);
+}
+.header_wrapper .nav-item .nav-link.active{
+    color: var(--text-dark-green);
+}
+
+.header_scrolled{
+    position: fixed;
+    margin-top: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 85px;
+    background-color: var(--bg-white);
+    -webkit-box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .05);
+    box-shadow: 0 4px 6px 0 rgba(12, 0, 46, .05);
+}
+.header_scrolled .navbar-brand img{
+    width: 190px;
+    height: auto;
+    animation: animated 0.1s ease-in-out;
+}
+@keyframes animated{
+    0%{
+        width: 210px;
+    }
+    50%{
+        width: 200px;
+    }
+    100%{
+        width: 190px;
+    }
+}
+.header_scrolled .nav-item .nav-link{
+    font-size: 17px;
+}
+
+
+/* 3.Banner */
+.banner_wrapper{
+    display: flex;
+    width: 100%;
+    padding: 100px 0 125px;
+    background: url(../images/bg.png) no-repeat;
+    background-position: 50% 40%; /*center top*/
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+.banner_wrapper .banner-subtitle{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    color: var(--text-light-3);
+}
+.banner_wrapper .banner-title{
+    font-family: var(--secondary-font);
+    font-size: 60px;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.15;
+    margin-bottom: 25px;
+    color: var(--text-black);
+}
+.banner_wrapper .banner-title span{
+    color: var(--text-dark-green);
+}
+.banner_wrapper .banner_title-text{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    max-width: 450px;
+    color: var(--text-light-2);
+}
+.banner_wrapper .learn-more-btn-section{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 20px;
+}
+.banner_wrapper .header-img-section img{
+    width: 100%;
+    animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float {
+    0%{
+        transform: translateY(0px);
+    }
+    50%{
+        transform: translateY(20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}

@@ -1,0 +1,17 @@
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\bin\Debug\net8.0\Hospitals.Utilities.deps.json
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\bin\Debug\net8.0\Hospitals.Utilities.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\bin\Debug\net8.0\Hospitals.Utilities.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\bin\Debug\net8.0\Hospital.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\bin\Debug\net8.0\Hospital.Repositories.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\bin\Debug\net8.0\Hospital.Models.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\bin\Debug\net8.0\Hospital.Repositories.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.csproj.AssemblyReference.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.AssemblyInfoInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.AssemblyInfo.cs
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.csproj.CoreCompileInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.csproj.CopyComplete
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\refint\Hospitals.Utilities.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\Hospitals.Utilities.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospitals.Utilities\obj\Debug\net8.0\ref\Hospitals.Utilities.dll
