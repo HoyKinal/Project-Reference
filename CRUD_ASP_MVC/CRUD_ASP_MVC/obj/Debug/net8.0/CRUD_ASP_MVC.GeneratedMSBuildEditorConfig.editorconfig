@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRUD_ASP_MVC
+build_property.RootNamespace = CRUD_ASP_MVC
+build_property.ProjectDir = D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\CRUD_ASP_MVC\CRUD_ASP_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\CRUD_ASP_MVC\CRUD_ASP_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Enrollments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Enrollments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Enrollments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Enrollments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5yb2xsbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/11.IT Vedio lesson/C\# Video/ASP.Net Project Management/CRUD_ASP_MVC/CRUD_ASP_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fyxqhi4ke8

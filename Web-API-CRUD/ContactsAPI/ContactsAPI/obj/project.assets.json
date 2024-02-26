@@ -4473,11 +4473,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\hoyki\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\hoykinal\\.nuget\\packages\\": {}
+>>>>>>> master
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\11.IT Vedio lesson\\C# Video\\Web API\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
       "projectName": "ContactsAPI",
       "projectPath": "D:\\11.IT Vedio lesson\\C# Video\\Web API\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
@@ -4486,6 +4491,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoyki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\1.Words\\My CV\\CV Apply LOLC\\Project-Reference\\Web-API-CRUD\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
+      "projectName": "ContactsAPI",
+      "projectPath": "D:\\1.Words\\My CV\\CV Apply LOLC\\Project-Reference\\Web-API-CRUD\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
+      "packagesPath": "C:\\Users\\hoykinal\\.nuget\\packages\\",
+      "outputPath": "D:\\1.Words\\My CV\\CV Apply LOLC\\Project-Reference\\Web-API-CRUD\\ContactsAPI\\ContactsAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hoykinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> master
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

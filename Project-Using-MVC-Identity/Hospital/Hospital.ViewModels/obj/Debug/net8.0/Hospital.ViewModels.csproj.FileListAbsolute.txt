@@ -1,0 +1,15 @@
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.deps.json
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.AssemblyInfo.cs
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\refint\Hospital.ViewModels.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\ref\Hospital.ViewModels.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\bin\Debug\net8.0\Hospital.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\bin\Debug\net8.0\Hospital.Models.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.csproj.CopyComplete

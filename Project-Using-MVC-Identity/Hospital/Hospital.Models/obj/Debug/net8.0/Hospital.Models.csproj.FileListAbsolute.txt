@@ -1,0 +1,12 @@
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\bin\Debug\net8.0\Hospital.Models.deps.json
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\bin\Debug\net8.0\Hospital.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\bin\Debug\net8.0\Hospital.Models.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\Hospital.Models.csproj.AssemblyReference.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\Hospital.Models.AssemblyInfoInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\Hospital.Models.AssemblyInfo.cs
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\Hospital.Models.csproj.CoreCompileInputs.cache
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\Hospital.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\refint\Hospital.Models.dll
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\Hospital.Models.pdb
+D:\11.IT Vedio lesson\C# Video\ASP.Net Project Management\Hospital\Hospital.Models\obj\Debug\net8.0\ref\Hospital.Models.dll
