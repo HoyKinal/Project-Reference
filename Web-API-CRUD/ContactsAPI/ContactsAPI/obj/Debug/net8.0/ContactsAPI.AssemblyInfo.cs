@@ -15,10 +15,14 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acc55b9900f406190639ccfdbdae4634eab3e9d2")]
 >>>>>>> master
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acc55b9900f406190639ccfdbdae4634eab3e9d2")]
+>>>>>>> 66b3a89183e29e8449039dd4facdacb81b1ca918
 [assembly: System.Reflection.AssemblyProductAttribute("ContactsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

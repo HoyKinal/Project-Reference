@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "o2DdxGNDv0tQsOcDNBi2/LnHkPNOEtO3hm9Torcn3HZjqk7TGt0IKIc9IeYREEQSmPJ5zqeb4sA0GxPImxgFqA==",
   "success": true,
   "projectFilePath": "D:\\11.IT Vedio lesson\\C# Video\\Web API\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
@@ -88,6 +89,8 @@
     "C:\\Users\\hoyki\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\hoyki\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
 =======
+=======
+>>>>>>> 66b3a89183e29e8449039dd4facdacb81b1ca918
   "dgSpecHash": "Ki0Oavvn2KZ/S/VdIV+6VF9YHwRw6J5gEll/unJXXxkD/ASlVPziqMArdDTFvI4mFuOU3AqnCljE92a+dK58Fw==",
   "success": true,
   "projectFilePath": "D:\\1.Words\\My CV\\CV Apply LOLC\\Project-Reference\\Web-API-CRUD\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj",
@@ -174,7 +177,10 @@
     "C:\\Users\\hoykinal\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\hoykinal\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\hoykinal\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 66b3a89183e29e8449039dd4facdacb81b1ca918
   ],
   "logs": []
 }

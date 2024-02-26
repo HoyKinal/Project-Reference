@@ -10,18 +10,26 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContactsAPI
 build_property.RootNamespace = ContactsAPI
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = D:\11.IT Vedio lesson\C# Video\Web API\ContactsAPI\ContactsAPI\
 =======
 build_property.ProjectDir = D:\1.Words\My CV\CV Apply LOLC\Project-Reference\Web-API-CRUD\ContactsAPI\ContactsAPI\
 >>>>>>> master
+=======
+build_property.ProjectDir = D:\1.Words\My CV\CV Apply LOLC\Project-Reference\Web-API-CRUD\ContactsAPI\ContactsAPI\
+>>>>>>> 66b3a89183e29e8449039dd4facdacb81b1ca918
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = D:\11.IT Vedio lesson\C# Video\Web API\ContactsAPI\ContactsAPI
 =======
 build_property.MSBuildProjectDirectory = D:\1.Words\My CV\CV Apply LOLC\Project-Reference\Web-API-CRUD\ContactsAPI\ContactsAPI
 >>>>>>> master
+=======
+build_property.MSBuildProjectDirectory = D:\1.Words\My CV\CV Apply LOLC\Project-Reference\Web-API-CRUD\ContactsAPI\ContactsAPI
+>>>>>>> 66b3a89183e29e8449039dd4facdacb81b1ca918
 build_property._RazorSourceGeneratorDebug = 

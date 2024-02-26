@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "D:\\11.IT Vedio lesson\\C# Video\\Web API\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj": {}
   },
   "projects": {
@@ -17,6 +18,8 @@
         "configFilePaths": [
           "C:\\Users\\hoyki\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
+=======
+>>>>>>> 66b3a89183e29e8449039dd4facdacb81b1ca918
     "D:\\1.Words\\My CV\\CV Apply LOLC\\Project-Reference\\Web-API-CRUD\\ContactsAPI\\ContactsAPI\\ContactsAPI.csproj": {}
   },
   "projects": {
@@ -31,7 +34,10 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoykinal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 66b3a89183e29e8449039dd4facdacb81b1ca918
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
